@@ -1,9 +1,10 @@
-.buttons {
-  color: white;
-  background-color: gray;
-  border-radius: 4px;
+.länkar a {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
 }
-
 .header {
   color: white;
   background-color: steelblue;
