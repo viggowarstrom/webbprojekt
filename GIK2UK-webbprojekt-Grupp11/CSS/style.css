@@ -45,6 +45,12 @@ body {
   margin: 0;
 }
 
+.text-bild {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 16px;
+}
+
 .text {
 
 }
