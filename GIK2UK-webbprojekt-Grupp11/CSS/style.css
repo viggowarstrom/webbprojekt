@@ -1,6 +1,10 @@
+/* stjärnan markerar allt och font-family ger en font */
+
 * {
   font-family: Arial, Helvetica;
 }
+
+/* Gör våra knappar rörliga när fönstret rör sig */
 
 .länkar {
   display: flex;
@@ -9,6 +13,8 @@
   gap: 20px;
   justify-content: center;
 }
+
+/* Ger knapparna sin design */
 
 .länkar a {
   background-color: steelblue;
@@ -26,10 +32,14 @@
   margin-right: 30px;
 }
 
+/* Gör att knappen reagerar när man håller musen över den */
+
 .länkar a:hover {
   cursor: pointer;
   opacity: 0.8;
 }
+
+/* Denna kod ger header sin design */
 
 header {
   color: white;
@@ -39,6 +49,8 @@ header {
   text-align: center;
 }
 
+
+
 body {
   display: flex;
   flex-direction: column;
@@ -46,9 +58,13 @@ body {
   margin: 0;
 }
 
+/* bestämmer färg till texten */
+
 .text {
   color: rgb(1, 1, 1);
 }
+
+/* säger hur bilden ska förhålla sig på sidan */
 
 .bild {
   width: 100%;
@@ -56,19 +72,20 @@ body {
   padding-top: 40px;
 }
 
+/* Design och storlek på header */
+
 .H1 {
   font-weight: bold;
   font-size: 20px;
 }
 
-.H1-impact {
-  display: grid;
-  grid-template-columns: 30px 1fr;
-}
+/* Gör att footer är på botten */
 
 .footer-container {
   margin-top: auto;
 }
+
+/* Gör footerns design */
 
 footer {
   color: white;
