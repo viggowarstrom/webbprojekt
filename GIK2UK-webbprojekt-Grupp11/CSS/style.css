@@ -1,5 +1,10 @@
+* {
+  font-family: Arial, Helvetica;
+}
+
 .länkar {
   display: flex;
+  align-items: center;
   flex-direction: row;
   gap: 20px;
   justify-content: center;
@@ -33,20 +38,11 @@ header {
   text-align: center;
 }
 
-footer {
-  color: white;
-  background-color: steelblue;
-  display: block;
-  padding: 40px;
-  text-align: left;
-}
-
 body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
   margin: 0;
-}
-
-p {
-  font-family: Arial, Helvetica, sans-serif;
 }
 
 .text-bild {
@@ -86,4 +82,16 @@ p {
 .hem:hover {
   cursor: pointer;
   opacity: 80%;
+}
+
+.footer-container {
+  margin-top: auto;
+}
+
+footer {
+  color: white;
+  background-color: steelblue;
+  display: block;
+  padding: 40px;
+  text-align: left;
 }
