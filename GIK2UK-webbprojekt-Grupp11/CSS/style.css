@@ -94,3 +94,7 @@ footer {
   padding: 40px;
   text-align: left;
 }
+
+.länkar a.grey {
+  background-color: dimgrey;
+}
