@@ -39,6 +39,10 @@
   opacity: 0.8;
 }
 
+.länkar a.grey {
+  background-color: dimgrey;
+}
+
 /* Denna kod ger header sin design */
 
 header {
@@ -48,8 +52,6 @@ header {
   padding: 40px;
   text-align: center;
 }
-
-
 
 body {
   display: flex;
@@ -93,8 +95,4 @@ footer {
   display: block;
   padding: 40px;
   text-align: left;
-}
-
-.länkar a.grey {
-  background-color: dimgrey;
 }
