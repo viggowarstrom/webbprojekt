@@ -9,7 +9,8 @@ Student 2
 Denna person har gjort index/huvudsidans grundkod/HTML.
 
 Student 3
-Denna person har lagt till innehållet för sidona och tillhörande CSS.
+Denna person har lagt till innehållet för sidona och tillhörande CSS, samt källhänvisat och
+skapat länkar för källorna.
 
 Student 4
 Denna person har gjort länkade sidors grundkod/HTML.
