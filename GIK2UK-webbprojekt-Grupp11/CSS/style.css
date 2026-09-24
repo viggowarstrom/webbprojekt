@@ -67,9 +67,18 @@ body {
 /* säger hur bilden ska förhålla sig på sidan */
 
 .bild {
-  max-width: 100%;
+  max-width: 600px;
   height: auto;
   padding-top: 40px;
+  padding-bottom: 35px;
+  margin: 0 auto;
+}
+
+.bild img {
+  max-width: 80%;
+  height: 80%;
+  display: block;
+  margin: 5px auto;
 }
 
 /* Design och storlek på header */
@@ -116,9 +125,10 @@ footer {
   footer {
     font-size: 75%;
   }
-  .bild {
+  .bild img {
     max-width: 100%;
     height: auto;
     display: block;
+    margin: 0 auto;
   }
 }
