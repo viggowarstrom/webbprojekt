@@ -60,6 +60,10 @@ body {
   margin: 0;
 }
 
+.text {
+  margin: 4px;
+}
+
 /* säger hur bilden ska förhålla sig på sidan */
 
 .bild {
