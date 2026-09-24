@@ -1,6 +1,7 @@
 /* stjärnan markerar allt och font-family ger en font */
 
 * {
+  box-sizing: border-box;
   font-family: Arial, Helvetica;
 }
 
@@ -48,7 +49,6 @@
 header {
   color: white;
   background-color: steelblue;
-  display: block;
   padding: 40px;
   text-align: center;
 }
@@ -58,12 +58,6 @@ body {
   flex-direction: column;
   min-height: 100vh;
   margin: 0;
-}
-
-/* bestämmer färg till texten */
-
-.text {
-  color: rgb(1, 1, 1);
 }
 
 /* säger hur bilden ska förhålla sig på sidan */
@@ -92,7 +86,30 @@ body {
 footer {
   color: white;
   background-color: steelblue;
-  display: block;
   padding: 40px;
   text-align: left;
+}
+
+/* Speciella regler för skärmar <600px */
+@media (max-width: 600px) {
+  header,
+  footer {
+    padding: 20px;
+  }
+  /* Gör att knapparna återigen flyttar på sig, samt avstånden mellan dem blir mindre, när skärmen <600px */
+  nav {
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  /* Gör knapparna mindre samt 0-ställer margin för små skärmar*/
+  .länkar a {
+    margin: 0;
+    padding: 12px 15px;
+  }
+  
+  header,
+  main,
+  footer {
+    font-size: 50%;
+  }
 }
