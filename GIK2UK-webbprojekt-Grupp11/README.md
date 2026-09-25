@@ -20,4 +20,6 @@ Denna person har gjort länkade sidors grundkod/HTML.
 
 ## Student 5
 
-* Denna person har gjort övrig CSS för sidorna. Detta inkluderar CSS för startsidans bild, responsivitet via flexbox så att sidan går att navigera i olika storlekar och aspect ratios, samt allt annat som inte ingår i ovanstående studenters tillhörande CSS-bidrag.
+* Gjort all övrig CSS för sidorna.
+* Det inkluderar startsidans bild och tillhörande CSS.
+* Samt att göra sidan responsiv och navigerarbar i olika storlekar via flexbox.
