@@ -18,7 +18,8 @@ skapat länkar för källorna.
 
 ## Student 4
 
-- Denna person har gjort länkade sidors grundkod/HTML. Detta innebär att han har gjort strukturen av sidorna med hjälp av headers, footers, paragrafer och nav.
+- Skapat grundkod med hjälp av header, footer, paragrafer och div.
+- Jobbat med head vilket inkluderar meta och link för CSS.
 
 ## Student 5
 
