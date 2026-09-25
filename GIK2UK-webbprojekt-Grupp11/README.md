@@ -11,8 +11,12 @@ Denna person har gjort huvudsidans HTML. Detta innebär att personen har gjort e
 
 ## Student 3
 
-Denna person har lagt till innehållet för sidona och tillhörande CSS, samt källhänvisat och
+* lagt till innehållet för sidona och tillhörande CSS, samt källhänvisat och
 skapat länkar för källorna.
+* Lagt till element <break> för att göra texten läsbar och styckeindelat
+* Lagt till <sup id=fotnot> som källhänvisning och sen återkopplat med med aria-label
+ för att namnge och identifiera referatet samt göra den klickbar 
+*  
 
 ## Student 4
 
