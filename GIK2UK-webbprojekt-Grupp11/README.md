@@ -17,7 +17,7 @@ skapat länkar för källorna.
 
 ## Student 4
 
-Denna person har gjort länkade sidors grundkod/HTML.
+- Denna person har gjort länkade sidors grundkod/HTML. Detta innebär att han har gjort strukturen av sidorna med hjälp av headers, footers, paragrafer och nav.
 
 ## Student 5
 
