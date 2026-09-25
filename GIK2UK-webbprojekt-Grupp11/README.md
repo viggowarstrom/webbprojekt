@@ -6,7 +6,8 @@ Denna person har gjort länkarna för hemsidan och tillhörande CSS.
 
 ## Student 2
 
-Denna person har gjort huvudsidans HTML. Detta innebär att personen har gjort en head med länk för vår CSS
+- Utvecklade grundstrukturen för startskärmen ("index.html")
+- skapat, utöver head, strukturen för sidans utformning samt länk till css.
 
 ## Student 3
 
