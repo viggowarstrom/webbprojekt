@@ -25,4 +25,4 @@ skapat länkar för källorna.
 
 - Gjort all övrig CSS för sidorna.
 - Det inkluderar startsidans bild och tillhörande CSS.
-- Samt att göra sidan responsiv och navigerarbar i olika storlekar via flexbox.
+- Samt att göra sidan responsiv och navigerbar i olika storlekar via flexbox.
